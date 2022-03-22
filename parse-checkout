@@ -1,0 +1,24 @@
+[33mcommit 1e79687414b7e5238ab7c3dca65b9228002f4871[m[33m ([m[1;36mHEAD -> [m[1;32mhomologacao[m[33m, [m[1;31morigin/homologacao[m[33m)[m
+Merge: 7b2473a 4284c80
+Author: igor nascimento <igor.nascimento@liferay.com>
+Date:   Tue Mar 22 07:45:47 2022 -0300
+
+    Merge branch 'main' into homologacao
+
+[1mdiff --cc index.html[m
+[1mindex debe92f,9c831ff..6ffe037[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@@ -1,8 -1,7 +1,12 @@@[m
+  <html>[m
+  [m
+  [m
+[32m++<<<<<<< HEAD[m
+[32m +[m
+[32m +	lha esse arquivo esta alterado agora.[m
+[32m++=======[m
+[32m+ teste de html. [m
+[32m++>>>>>>> main[m
+  [m
+  </html>[m
+  [m
